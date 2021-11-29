@@ -1,0 +1,4 @@
+db.cblite2/
+build/
+vendor/
+.vscode/
